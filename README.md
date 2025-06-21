@@ -11,7 +11,7 @@
 
 **A production-ready deep learning application for binary image classification with state-of-the-art accuracy and enterprise-level user experience.**
 
-[Live Demo](https://your-app-url.streamlit.app/) • [Documentation](#documentation) • [API Reference](#api-reference) • [Contributing](#contributing)
+[Live Demo](https://catvsdogclass.streamlit.app/) • [Documentation](SOON) • [API Reference](#api-reference) • [Contributing](#contributing)
 
 </div>
 
