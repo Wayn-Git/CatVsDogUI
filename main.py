@@ -87,8 +87,8 @@ st.markdown(
 @st.cache_resource
 def load_model_cached():
     try:
-        return load_model("../Model/cat_dog_model.keras")
-    except Exception as e:
+        return load_model("cat_dog_model.keras")
+    except Exception as e:  
         st.error(f"Failed to load model: {e}")
         return None
 
